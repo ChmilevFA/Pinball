@@ -8,4 +8,4 @@ Initially everything made on UE 4.24 and result migrated to UE 4.25
 All assets are taken from course resources
 
 Super short gif with preview:\
-![Alt Text](https://https://github.com/ChmilevFA/Pinball/pinball-preview.gif)
+![Alt Text](https://github.com/ChmilevFA/Pinball/blob/master/pinball-preview.gif)
